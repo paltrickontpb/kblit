@@ -4,6 +4,11 @@ Some external keyboards desiged for the low-end and loiw-budget gaming community
 ### Usage 
 Enter 'kblit' in your console or Terminal to toggle the status of the backlight
 
+### Installation
+cd kblit  
+make  
+sudo make install  
+
 
 Script By:
 Paltrickontpb
